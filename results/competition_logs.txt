@@ -1,0 +1,231 @@
+7.7s 1 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+7.7s 2 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+7.7s 3 0.00s - to python to disable frozen modules.
+7.7s 4 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+8.5s 5 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+8.5s 6 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+8.5s 7 0.00s - to python to disable frozen modules.
+8.5s 8 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+11.3s 9 ======================================================================
+11.3s 10 Christmas Tree Packing - Beam Search Solution
+11.3s 11 ======================================================================
+11.3s 12 N=  1 | Score: 10000.00 | Eff:  24.6% | Time:   0.0s | Total:    0.0m
+11.3s 13 N=  2 | Score: 12502.07 | Eff:  19.6% | Time:   0.0s | Total:    0.0m
+11.3s 14 N=  3 | Score:  8334.72 | Eff:  29.5% | Time:   0.1s | Total:    0.0m
+11.6s 15 N=  4 | Score:  8929.02 | Eff:  27.5% | Time:   0.2s | Total:    0.0m
+11.8s 16 N=  5 | Score: 10123.83 | Eff:  24.3% | Time:   0.2s | Total:    0.0m
+12.1s 17 N=  6 | Score:  9068.92 | Eff:  27.1% | Time:   0.3s | Total:    0.0m
+12.5s 18 N=  7 | Score:  9760.97 | Eff:  25.2% | Time:   0.4s | Total:    0.0m
+13.1s 19 N=  8 | Score: 10551.25 | Eff:  23.3% | Time:   0.5s | Total:    0.0m
+13.6s 20 N=  9 | Score: 11282.76 | Eff:  21.8% | Time:   0.6s | Total:    0.0m
+14.3s 21 N= 10 | Score: 11009.19 | Eff:  22.3% | Time:   0.6s | Total:    0.0m
+15.3s 22 N= 11 | Score:  8616.89 | Eff:  28.5% | Time:   1.0s | Total:    0.1m
+16.5s 23 N= 12 | Score:  7898.82 | Eff:  31.1% | Time:   1.2s | Total:    0.1m
+17.9s 24 N= 13 | Score:  7417.80 | Eff:  33.1% | Time:   1.3s | Total:    0.1m
+19.3s 25 N= 14 | Score:  8109.23 | Eff:  30.3% | Time:   1.5s | Total:    0.1m
+21.0s 26 N= 15 | Score:  8300.68 | Eff:  29.6% | Time:   1.6s | Total:    0.2m
+22.7s 27 N= 16 | Score:  8368.96 | Eff:  29.3% | Time:   1.8s | Total:    0.2m
+24.7s 28 N= 17 | Score:  7876.66 | Eff:  31.2% | Time:   2.0s | Total:    0.2m
+26.8s 29 N= 18 | Score:  7439.07 | Eff:  33.0% | Time:   2.1s | Total:    0.3m
+29.0s 30 N= 19 | Score:  7525.26 | Eff:  32.6% | Time:   2.3s | Total:    0.3m
+31.5s 31 N= 20 | Score:  7693.67 | Eff:  31.9% | Time:   2.5s | Total:    0.3m
+34.2s 32 N= 21 | Score:  8006.21 | Eff:  30.7% | Time:   2.7s | Total:    0.4m
+36.9s 33 N= 22 | Score:  7674.38 | Eff:  32.0% | Time:   2.8s | Total:    0.4m
+39.8s 34 N= 23 | Score:  7854.63 | Eff:  31.3% | Time:   2.9s | Total:    0.5m
+43.0s 35 N= 24 | Score:  7527.35 | Eff:  32.6% | Time:   3.2s | Total:    0.5m
+46.3s 36 N= 25 | Score:  7758.72 | Eff:  31.7% | Time:   3.3s | Total:    0.6m
+49.8s 37 N= 26 | Score:  7460.31 | Eff:  32.9% | Time:   3.5s | Total:    0.6m
+53.5s 38 N= 27 | Score:  7184.00 | Eff:  34.2% | Time:   3.7s | Total:    0.7m
+57.4s 39 N= 28 | Score:  6986.07 | Eff:  35.2% | Time:   3.9s | Total:    0.8m
+61.5s 40 N= 29 | Score:  7369.00 | Eff:  33.3% | Time:   4.1s | Total:    0.8m
+65.8s 41 N= 30 | Score:  7123.36 | Eff:  34.5% | Time:   4.3s | Total:    0.9m
+70.4s 42 N= 31 | Score:  6893.58 | Eff:  35.6% | Time:   4.6s | Total:    1.0m
+75.3s 43 N= 32 | Score:  6678.15 | Eff:  36.8% | Time:   4.8s | Total:    1.1m
+80.2s 44 N= 33 | Score:  7644.21 | Eff:  32.1% | Time:   5.0s | Total:    1.1m
+85.5s 45 N= 34 | Score:  7419.38 | Eff:  33.1% | Time:   5.3s | Total:    1.2m
+91.0s 46 N= 35 | Score:  7618.94 | Eff:  32.2% | Time:   5.5s | Total:    1.3m
+96.7s 47 N= 36 | Score:  8197.91 | Eff:  30.0% | Time:   5.8s | Total:    1.4m
+102.8s 48 N= 37 | Score:  7976.35 | Eff:  30.8% | Time:   6.0s | Total:    1.5m
+109.1s 49 N= 38 | Score:  7766.44 | Eff:  31.6% | Time:   6.3s | Total:    1.6m
+115.6s 50 N= 39 | Score:  7567.31 | Eff:  32.5% | Time:   6.6s | Total:    1.7m
+122.4s 51 N= 40 | Score:  7378.12 | Eff:  33.3% | Time:   6.8s | Total:    1.9m
+129.5s 52 N= 41 | Score:  7198.17 | Eff:  34.1% | Time:   7.1s | Total:    2.0m
+136.8s 53 N= 42 | Score:  7026.78 | Eff:  35.0% | Time:   7.3s | Total:    2.1m
+144.6s 54 N= 43 | Score:  7096.26 | Eff:  34.6% | Time:   7.8s | Total:    2.2m
+152.5s 55 N= 44 | Score:  6934.98 | Eff:  35.4% | Time:   7.9s | Total:    2.4m
+160.9s 56 N= 45 | Score:  6780.87 | Eff:  36.2% | Time:   8.4s | Total:    2.5m
+169.7s 57 N= 46 | Score:  7174.28 | Eff:  34.2% | Time:   8.8s | Total:    2.6m
+178.8s 58 N= 47 | Score:  7144.40 | Eff:  34.4% | Time:   9.1s | Total:    2.8m
+188.2s 59 N= 48 | Score:  7093.73 | Eff:  34.6% | Time:   9.4s | Total:    2.9m
+197.9s 60 N= 49 | Score:  7240.79 | Eff:  33.9% | Time:   9.7s | Total:    3.1m
+208.0s 61 N= 50 | Score:  7095.98 | Eff:  34.6% | Time:  10.2s | Total:    3.3m
+222.2s 62 N= 51 | Score:  6834.31 | Eff:  35.9% | Time:  14.2s | Total:    3.5m
+236.8s 63 N= 52 | Score:  6702.88 | Eff:  36.6% | Time:  14.6s | Total:    3.8m
+251.9s 64 N= 53 | Score:  6576.41 | Eff:  37.3% | Time:  15.1s | Total:    4.0m
+267.7s 65 N= 54 | Score:  6577.79 | Eff:  37.3% | Time:  15.8s | Total:    4.3m
+284.1s 66 N= 55 | Score:  6458.19 | Eff:  38.0% | Time:  16.4s | Total:    4.5m
+300.9s 67 N= 56 | Score:  7252.22 | Eff:  33.9% | Time:  16.8s | Total:    4.8m
+318.3s 68 N= 57 | Score:  7124.99 | Eff:  34.5% | Time:  17.4s | Total:    5.1m
+336.2s 69 N= 58 | Score:  7002.15 | Eff:  35.1% | Time:  17.9s | Total:    5.4m
+354.6s 70 N= 59 | Score:  6883.47 | Eff:  35.7% | Time:  18.4s | Total:    5.7m
+373.6s 71 N= 60 | Score:  6893.26 | Eff:  35.6% | Time:  18.9s | Total:    6.0m
+393.4s 72 N= 61 | Score:  6780.26 | Eff:  36.2% | Time:  19.8s | Total:    6.4m
+414.1s 73 N= 62 | Score:  6670.90 | Eff:  36.8% | Time:  20.7s | Total:    6.7m
+435.7s 74 N= 63 | Score:  6565.01 | Eff:  37.4% | Time:  21.6s | Total:    7.1m
+458.2s 75 N= 64 | Score:  6462.43 | Eff:  38.0% | Time:  22.5s | Total:    7.4m
+481.1s 76 N= 65 | Score:  6363.01 | Eff:  38.6% | Time:  22.9s | Total:    7.8m
+504.7s 77 N= 66 | Score:  6266.60 | Eff:  39.2% | Time:  23.7s | Total:    8.2m
+529.3s 78 N= 67 | Score:  6173.07 | Eff:  39.8% | Time:  24.6s | Total:    8.6m
+554.1s 79 N= 68 | Score:  6125.91 | Eff:  40.1% | Time:  24.7s | Total:    9.0m
+579.7s 80 N= 69 | Score:  6268.80 | Eff:  39.2% | Time:  25.7s | Total:    9.5m
+606.2s 81 N= 70 | Score:  6633.31 | Eff:  37.0% | Time:  26.5s | Total:    9.9m
+632.7s 82 N= 71 | Score:  6556.40 | Eff:  37.5% | Time:  26.5s | Total:   10.4m
+659.7s 83 N= 72 | Score:  7009.60 | Eff:  35.0% | Time:  27.0s | Total:   10.8m
+687.3s 84 N= 73 | Score:  7191.53 | Eff:  34.2% | Time:  27.5s | Total:   11.3m
+715.4s 85 N= 74 | Score:  7094.34 | Eff:  34.6% | Time:  28.1s | Total:   11.7m
+744.0s 86 N= 75 | Score:  6999.75 | Eff:  35.1% | Time:  28.7s | Total:   12.2m
+773.4s 87 N= 76 | Score:  6907.65 | Eff:  35.6% | Time:  29.3s | Total:   12.7m
+803.4s 88 N= 77 | Score:  6817.94 | Eff:  36.0% | Time:  30.1s | Total:   13.2m
+834.3s 89 N= 78 | Score:  6730.53 | Eff:  36.5% | Time:  30.9s | Total:   13.7m
+866.2s 90 N= 79 | Score:  6645.33 | Eff:  37.0% | Time:  31.8s | Total:   14.2m
+899.3s 91 N= 80 | Score:  6562.27 | Eff:  37.4% | Time:  33.2s | Total:   14.8m
+932.6s 92 N= 81 | Score:  6665.27 | Eff:  36.9% | Time:  33.3s | Total:   15.4m
+966.7s 93 N= 82 | Score:  6598.35 | Eff:  37.2% | Time:  34.1s | Total:   15.9m
+1001.2s 94 N= 83 | Score:  7171.86 | Eff:  34.2% | Time:  34.5s | Total:   16.5m
+1036.7s 95 N= 84 | Score:  7086.48 | Eff:  34.7% | Time:  35.5s | Total:   17.1m
+1073.1s 96 N= 85 | Score:  7003.11 | Eff:  35.1% | Time:  36.4s | Total:   17.7m
+1109.7s 97 N= 86 | Score:  6921.68 | Eff:  35.5% | Time:  36.6s | Total:   18.3m
+1147.2s 98 N= 87 | Score:  6842.12 | Eff:  35.9% | Time:  37.6s | Total:   18.9m
+1186.2s 99 N= 88 | Score:  7541.73 | Eff:  32.6% | Time:  39.0s | Total:   19.6m
+1225.7s 100 N= 89 | Score:  7456.99 | Eff:  32.9% | Time:  39.5s | Total:   20.2m
+1265.9s 101 N= 90 | Score:  7374.14 | Eff:  33.3% | Time:  40.2s | Total:   20.9m
+1306.5s 102 N= 91 | Score:  7293.10 | Eff:  33.7% | Time:  40.6s | Total:   21.6m
+1347.3s 103 N= 92 | Score:  7213.83 | Eff:  34.0% | Time:  40.9s | Total:   22.3m
+1389.0s 104 N= 93 | Score:  7136.26 | Eff:  34.4% | Time:  41.6s | Total:   23.0m
+1431.4s 105 N= 94 | Score:  7060.35 | Eff:  34.8% | Time:  42.4s | Total:   23.7m
+1475.7s 106 N= 95 | Score:  6986.03 | Eff:  35.2% | Time:  44.3s | Total:   24.4m
+1520.0s 107 N= 96 | Score:  6913.26 | Eff:  35.5% | Time:  44.3s | Total:   25.1m
+1565.0s 108 N= 97 | Score:  6841.98 | Eff:  35.9% | Time:  45.1s | Total:   25.9m
+1610.8s 109 N= 98 | Score:  6772.17 | Eff:  36.3% | Time:  45.8s | Total:   26.7m
+1657.8s 110 N= 99 | Score:  6703.76 | Eff:  36.6% | Time:  47.0s | Total:   27.4m
+1705.4s 111 N=100 | Score:  6636.73 | Eff:  37.0% | Time:  47.6s | Total:   28.2m
+1761.2s 112 N=101 | Score:  7137.79 | Eff:  34.4% | Time:  55.8s | Total:   29.2m
+1818.5s 113 N=102 | Score:  7067.81 | Eff:  34.8% | Time:  57.3s | Total:   30.1m
+1877.9s 114 N=103 | Score:  6999.19 | Eff:  35.1% | Time:  59.3s | Total:   31.1m
+1938.5s 115 N=104 | Score:  6931.89 | Eff:  35.4% | Time:  60.6s | Total:   32.1m
+1999.8s 116 N=105 | Score:  6865.87 | Eff:  35.8% | Time:  61.3s | Total:   33.1m
+2062.2s 117 N=106 | Score:  6801.10 | Eff:  36.1% | Time:  62.4s | Total:   34.2m
+2126.2s 118 N=107 | Score:  6737.54 | Eff:  36.5% | Time:  64.0s | Total:   35.2m
+2191.3s 119 N=108 | Score:  6675.15 | Eff:  36.8% | Time:  65.1s | Total:   36.3m
+2257.4s 120 N=109 | Score:  6613.91 | Eff:  37.1% | Time:  66.0s | Total:   37.4m
+2324.5s 121 N=110 | Score:  6810.24 | Eff:  36.1% | Time:  67.1s | Total:   38.6m
+2392.8s 122 N=111 | Score:  6748.89 | Eff:  36.4% | Time:  68.3s | Total:   39.7m
+2463.1s 123 N=112 | Score:  6688.63 | Eff:  36.7% | Time:  70.3s | Total:   40.9m
+2533.5s 124 N=113 | Score:  6629.44 | Eff:  37.1% | Time:  70.4s | Total:   42.0m
+2604.9s 125 N=114 | Score:  6660.77 | Eff:  36.9% | Time:  71.5s | Total:   43.2m
+2677.8s 126 N=115 | Score:  6602.85 | Eff:  37.2% | Time:  72.9s | Total:   44.4m
+2751.4s 127 N=116 | Score:  6574.10 | Eff:  37.4% | Time:  73.5s | Total:   45.7m
+2826.5s 128 N=117 | Score:  6517.91 | Eff:  37.7% | Time:  75.1s | Total:   46.9m
+2902.9s 129 N=118 | Score:  6529.95 | Eff:  37.6% | Time:  76.5s | Total:   48.2m
+2981.4s 130 N=119 | Score:  6475.08 | Eff:  37.9% | Time:  78.5s | Total:   49.5m
+3060.9s 131 N=120 | Score:  6601.84 | Eff:  37.2% | Time:  79.5s | Total:   50.8m
+3141.2s 132 N=121 | Score:  6852.39 | Eff:  35.8% | Time:  80.3s | Total:   52.2m
+3223.2s 133 N=122 | Score:  6796.23 | Eff:  36.1% | Time:  81.9s | Total:   53.5m
+3306.3s 134 N=123 | Score:  6740.97 | Eff:  36.4% | Time:  83.2s | Total:   54.9m
+3391.6s 135 N=124 | Score:  6686.61 | Eff:  36.7% | Time:  85.2s | Total:   56.3m
+3477.7s 136 N=125 | Score:  6633.12 | Eff:  37.0% | Time:  86.1s | Total:   57.8m
+3564.9s 137 N=126 | Score:  6598.80 | Eff:  37.2% | Time:  87.3s | Total:   59.2m
+3652.9s 138 N=127 | Score:  6546.84 | Eff:  37.5% | Time:  87.9s | Total:   60.7m
+3742.2s 139 N=128 | Score:  6495.69 | Eff:  37.8% | Time:  89.3s | Total:   62.2m
+3832.3s 140 N=129 | Score:  6457.50 | Eff:  38.0% | Time:  90.1s | Total:   63.7m
+3925.4s 141 N=130 | Score:  6407.83 | Eff:  38.3% | Time:  93.1s | Total:   65.2m
+4019.3s 142 N=131 | Score:  6557.47 | Eff:  37.5% | Time:  93.9s | Total:   66.8m
+4114.6s 143 N=132 | Score:  6507.79 | Eff:  37.7% | Time:  95.3s | Total:   68.4m
+4210.0s 144 N=133 | Score:  6458.86 | Eff:  38.0% | Time:  95.4s | Total:   70.0m
+4307.1s 145 N=134 | Score:  6410.66 | Eff:  38.3% | Time:  97.1s | Total:   71.6m
+4405.1s 146 N=135 | Score:  6363.18 | Eff:  38.6% | Time:  98.0s | Total:   73.2m
+4504.6s 147 N=136 | Score:  6316.39 | Eff:  38.9% | Time:  99.5s | Total:   74.9m
+4605.5s 148 N=137 | Score:  6270.28 | Eff:  39.2% | Time: 101.0s | Total:   76.6m
+4709.5s 149 N=138 | Score:  6335.11 | Eff:  38.8% | Time: 104.0s | Total:   78.3m
+4814.1s 150 N=139 | Score:  6675.75 | Eff:  36.8% | Time: 104.6s | Total:   80.0m
+4919.8s 151 N=140 | Score:  6628.07 | Eff:  37.1% | Time: 105.6s | Total:   81.8m
+5027.0s 152 N=141 | Score:  6581.06 | Eff:  37.3% | Time: 107.3s | Total:   83.6m
+5136.2s 153 N=142 | Score:  6534.72 | Eff:  37.6% | Time: 109.1s | Total:   85.4m
+5245.7s 154 N=143 | Score:  6489.02 | Eff:  37.9% | Time: 109.5s | Total:   87.2m
+5356.1s 155 N=144 | Score:  6443.96 | Eff:  38.1% | Time: 110.4s | Total:   89.1m
+5470.4s 156 N=145 | Score:  6598.30 | Eff:  37.2% | Time: 114.3s | Total:   91.0m
+5583.1s 157 N=146 | Score:  6553.11 | Eff:  37.5% | Time: 112.7s | Total:   92.9m
+5698.7s 158 N=147 | Score:  6508.53 | Eff:  37.7% | Time: 115.6s | Total:   94.8m
+5815.1s 159 N=148 | Score:  6740.15 | Eff:  36.4% | Time: 116.4s | Total:   96.7m
+5932.5s 160 N=149 | Score:  6694.91 | Eff:  36.7% | Time: 117.4s | Total:   98.7m
+6052.1s 161 N=150 | Score:  6650.28 | Eff:  36.9% | Time: 119.6s | Total:  100.7m
+6173.5s 162 N=151 | Score:  6606.24 | Eff:  37.2% | Time: 121.4s | Total:  102.7m
+6295.6s 163 N=152 | Score:  6562.77 | Eff:  37.4% | Time: 122.1s | Total:  104.7m
+6419.1s 164 N=153 | Score:  6519.88 | Eff:  37.7% | Time: 123.5s | Total:  106.8m
+6547.3s 165 N=154 | Score:  6602.74 | Eff:  37.2% | Time: 128.2s | Total:  108.9m
+6674.1s 166 N=155 | Score:  6560.14 | Eff:  37.4% | Time: 126.8s | Total:  111.0m
+6801.7s 167 N=156 | Score:  6525.16 | Eff:  37.6% | Time: 127.6s | Total:  113.2m
+6930.9s 168 N=157 | Score:  6483.60 | Eff:  37.9% | Time: 129.1s | Total:  115.3m
+7061.9s 169 N=158 | Score:  6442.57 | Eff:  38.1% | Time: 131.1s | Total:  117.5m
+7195.1s 170 N=159 | Score:  6402.05 | Eff:  38.4% | Time: 133.2s | Total:  119.7m
+7331.3s 171 N=160 | Score:  6362.04 | Eff:  38.6% | Time: 136.1s | Total:  122.0m
+7467.4s 172 N=161 | Score:  6322.52 | Eff:  38.8% | Time: 136.1s | Total:  124.3m
+7607.2s 173 N=162 | Score:  6428.95 | Eff:  38.2% | Time: 139.8s | Total:  126.6m
+7749.5s 174 N=163 | Score:  6389.51 | Eff:  38.4% | Time: 142.3s | Total:  129.0m
+7891.2s 175 N=164 | Score:  6538.60 | Eff:  37.6% | Time: 141.6s | Total:  131.3m
+8033.3s 176 N=165 | Score:  6498.97 | Eff:  37.8% | Time: 142.1s | Total:  133.7m
+8176.6s 177 N=166 | Score:  6459.82 | Eff:  38.0% | Time: 143.3s | Total:  136.1m
+8322.1s 178 N=167 | Score:  6421.14 | Eff:  38.3% | Time: 145.5s | Total:  138.5m
+8469.4s 179 N=168 | Score:  6382.92 | Eff:  38.5% | Time: 147.2s | Total:  141.0m
+8618.0s 180 N=169 | Score:  6345.15 | Eff:  38.7% | Time: 148.6s | Total:  143.4m
+8768.1s 181 N=170 | Score:  6307.83 | Eff:  38.9% | Time: 150.2s | Total:  145.9m
+8920.1s 182 N=171 | Score:  6270.94 | Eff:  39.2% | Time: 151.9s | Total:  148.5m
+9073.9s 183 N=172 | Score:  6588.40 | Eff:  37.3% | Time: 153.8s | Total:  151.0m
+9228.5s 184 N=173 | Score:  6550.32 | Eff:  37.5% | Time: 154.6s | Total:  153.6m
+9385.1s 185 N=174 | Score:  6512.67 | Eff:  37.7% | Time: 156.6s | Total:  156.2m
+9545.6s 186 N=175 | Score:  6475.46 | Eff:  37.9% | Time: 160.5s | Total:  158.9m
+9706.3s 187 N=176 | Score:  6438.66 | Eff:  38.1% | Time: 160.7s | Total:  161.6m
+9868.2s 188 N=177 | Score:  6402.29 | Eff:  38.4% | Time: 161.9s | Total:  164.3m
+10032.2s 189 N=178 | Score:  6397.37 | Eff:  38.4% | Time: 163.9s | Total:  167.0m
+10201.4s 190 N=179 | Score:  6361.63 | Eff:  38.6% | Time: 169.2s | Total:  169.8m
+10372.4s 191 N=180 | Score:  6326.29 | Eff:  38.8% | Time: 171.1s | Total:  172.7m
+10545.0s 192 N=181 | Score:  6291.34 | Eff:  39.0% | Time: 172.6s | Total:  175.6m
+10714.9s 193 N=182 | Score:  6592.79 | Eff:  37.3% | Time: 169.8s | Total:  178.4m
+10887.3s 194 N=183 | Score:  6556.77 | Eff:  37.5% | Time: 172.4s | Total:  181.3m
+11061.9s 195 N=184 | Score:  6521.13 | Eff:  37.7% | Time: 174.6s | Total:  184.2m
+11239.3s 196 N=185 | Score:  6485.88 | Eff:  37.9% | Time: 177.5s | Total:  187.1m
+11419.4s 197 N=186 | Score:  6451.01 | Eff:  38.1% | Time: 180.0s | Total:  190.1m
+11602.0s 198 N=187 | Score:  6416.51 | Eff:  38.3% | Time: 182.6s | Total:  193.2m
+11787.3s 199 N=188 | Score:  6382.38 | Eff:  38.5% | Time: 185.3s | Total:  196.3m
+11973.4s 200 N=189 | Score:  6460.45 | Eff:  38.0% | Time: 186.2s | Total:  199.4m
+12159.2s 201 N=190 | Score:  6768.03 | Eff:  36.3% | Time: 185.7s | Total:  202.5m
+12346.9s 202 N=191 | Score:  6732.60 | Eff:  36.5% | Time: 187.8s | Total:  205.6m
+12535.3s 203 N=192 | Score:  6697.53 | Eff:  36.7% | Time: 188.4s | Total:  208.7m
+12729.4s 204 N=193 | Score:  6662.83 | Eff:  36.9% | Time: 194.1s | Total:  212.0m
+12923.4s 205 N=194 | Score:  6845.27 | Eff:  35.9% | Time: 193.9s | Total:  215.2m
+13120.7s 206 N=195 | Score:  6810.16 | Eff:  36.1% | Time: 197.3s | Total:  218.5m
+13319.4s 207 N=196 | Score:  6775.42 | Eff:  36.3% | Time: 198.7s | Total:  221.8m
+13522.2s 208 N=197 | Score:  6741.03 | Eff:  36.4% | Time: 202.8s | Total:  225.2m
+13726.0s 209 N=198 | Score:  6706.98 | Eff:  36.6% | Time: 203.8s | Total:  228.6m
+13931.0s 210 N=199 | Score:  6673.28 | Eff:  36.8% | Time: 205.1s | Total:  232.0m
+14135.7s 211 N=200 | Score:  6639.91 | Eff:  37.0% | Time: 204.8s | Total:  235.4m
+14135.7s 212 
+14135.7s 213 Saving submission file...
+14135.7s 214 
+14135.7s 215 ======================================================================
+14135.7s 216 COMPLETE! Total time: 235.4 minutes
+14135.7s 217 Solutions found: 200/200
+14135.7s 218 Average efficiency: 35.5%
+14135.7s 219 ======================================================================
+14139.3s 220 /usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\|'
+14139.3s 221 cells[i][c] = re.sub('\\\\\|', '|', cell)
+14139.5s 222 /usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\_'
+14139.5s 223 text = re.sub(r'_', '\_', text) # Escape underscores in display text
+14140.3s 224 /usr/local/lib/python3.12/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+14140.3s 225 warn(
+14140.3s 226 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+14140.8s 227 [NbConvertApp] Writing 31510 bytes to __notebook__.ipynb
+14144.1s 228 /usr/local/lib/python3.12/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+14144.1s 229 warn(
+14144.2s 230 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+14145.3s 231 [NbConvertApp] Writing 336552 bytes to __results__.html
